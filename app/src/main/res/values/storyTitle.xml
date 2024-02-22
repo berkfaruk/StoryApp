@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Reaper and the Ode</item>
+        <item>Shot for Mercy</item>
+        <item>The Crystal in the Chasm</item>
+        <item>City of Terror</item>
+        <item>The Last Torch</item>
+        <item>The Scarlet File</item>
+        <item>The Cloaked Mirror</item>
+        <item>The Voice of the Dark</item>
+        <item>Liberation of Arrakis</item>
+        <item>The Queer Frog</item>
+        <item>Crisis of Lust</item>
+        <item>Mist and the Rose</item>
+    </string-array>
+</resources>
